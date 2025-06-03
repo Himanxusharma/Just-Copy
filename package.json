@@ -1,0 +1,13 @@
+{
+    "name": "just-copy",
+    "version": "1.0.0",
+    "description": "OCR Text Extractor Chrome Extension",
+    "scripts": {
+        "generate-icons": "node generate_icons.js",
+        "copy-deps": "cp node_modules/tesseract.js/dist/tesseract.min.js lib/ && cp node_modules/tesseract.js/dist/worker.min.js lib/ && cp node_modules/tesseract.js/dist/tesseract-core.wasm.js lib/ && cp node_modules/tesseract.js/dist/tesseract-core.wasm lib/"
+    },
+    "dependencies": {
+        "sharp": "^0.32.1",
+        "tesseract.js": "^4.1.1"
+    }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="128" height="128" rx="24" fill="#2563EB"/>
+    
+    <!-- Document Icon -->
+    <rect x="32" y="24" width="64" height="80" rx="8" fill="white"/>
+    
+    <!-- Text Lines -->
+    <rect x="40" y="40" width="48" height="4" rx="2" fill="#2563EB"/>
+    <rect x="40" y="52" width="48" height="4" rx="2" fill="#2563EB"/>
+    <rect x="40" y="64" width="32" height="4" rx="2" fill="#2563EB"/>
+    
+    <!-- Copy Symbol -->
+    <path d="M88 48H96V88H56V80" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="72" y="56" width="24" height="32" rx="4" stroke="white" stroke-width="4"/>
+</svg> 
